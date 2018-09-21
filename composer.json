@@ -1,0 +1,26 @@
+{
+  "name": "zzh/laravel-xhprof",
+  "description": "laravel-xhprof",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "zouzehua",
+      "email": "zzh787272581@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Zzh\\LaravelXhprof\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Zzh\\LaravelXhprof\\LaravelXhprofServiceProvider"
+      ]
+    }
+  },
+  "minimum-stability": "dev",
+  "require": {}
+}
