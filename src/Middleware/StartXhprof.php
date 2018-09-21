@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Zzh\LaravelXhprof\Middleware;
+namespace Zehua\LaravelXhprof\Middleware;
 
 
 use Closure;

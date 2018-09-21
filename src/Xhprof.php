@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Zzh\LaravelXhprof;
+namespace Zehua\LaravelXhprof;
 
 
 use Illuminate\Http\Request;

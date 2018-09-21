@@ -1,10 +1,10 @@
 <?php
 
-namespace Zzh\LaravelXhprof;
+namespace Zehua\LaravelXhprof;
 
 
 use Illuminate\Support\ServiceProvider;
-use Zzh\LaravelXhprof\Middleware\StartXhprof;
+use Zehua\LaravelXhprof\Middleware\StartXhprof;
 
 class LaravelXhprofServiceProvider extends ServiceProvider
 {

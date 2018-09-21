@@ -1,11 +1,11 @@
 {
-  "name": "zzh/laravel-xhprof",
+  "name": "zehua/laravel-xhprof",
   "description": "laravel-xhprof",
   "type": "library",
   "license": "MIT",
   "authors": [
     {
-      "name": "zouzehua",
+      "name": "Zehua",
       "email": "zzh787272581@gmail.com"
     }
   ],
@@ -17,7 +17,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Zzh\\LaravelXhprof\\LaravelXhprofServiceProvider"
+        "Zehua\\LaravelXhprof\\LaravelXhprofServiceProvider"
       ]
     }
   },
