@@ -11,7 +11,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Zzh\\LaravelXhprof\\": "src/"
+      "Zehua\\LaravelXhprof\\": "src/"
     }
   },
   "extra": {
