@@ -5,7 +5,7 @@ namespace Zehua\LaravelXhprof\Middleware;
 
 
 use Closure;
-use Zzh\LaravelXhprof\Xhprof;
+use Zehua\LaravelXhprof\Xhprof;
 
 class StartXhprof
 {
